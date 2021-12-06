@@ -1,0 +1,13 @@
+Main{background-color: darkorchid;}
+body{
+    font-family: sans-serif;
+font-size: 110%;
+background-color: aqua;
+}
+
+header{background-color: darkturquoise;
+    text-align: center;}
+
+footer{background-color: cadetblue;
+text-align: center;}
+article{background-color: cyan;}
